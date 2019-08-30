@@ -1,0 +1,9 @@
+{
+  "name": "web-performance-monitor",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/gaokun/web-performance-monitor.git",
+  "author": "Ken <kytogether@vip.qq.com>",
+  "keywords": ["web performance", "requestAnimationFrame"],
+  "license": "MIT"
+}
