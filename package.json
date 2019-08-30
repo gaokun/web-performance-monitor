@@ -1,9 +1,12 @@
 {
   "name": "web-performance-monitor-lite",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "index.js",
   "repository": "https://github.com/gaokun/web-performance-monitor.git",
   "author": "Ken <kytogether@vip.qq.com>",
-  "keywords": ["web performance", "requestAnimationFrame"],
+  "keywords": [
+    "web performance",
+    "requestAnimationFrame"
+  ],
   "license": "MIT"
 }
