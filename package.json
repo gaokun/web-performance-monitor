@@ -1,6 +1,6 @@
 {
   "name": "web-performance-monitor-lite",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "index.js",
   "repository": "https://github.com/gaokun/web-performance-monitor.git",
   "author": "Ken <kytogether@vip.qq.com>",
